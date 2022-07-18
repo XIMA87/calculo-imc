@@ -1,4 +1,4 @@
-<h1>Cálcule seu IMC!</h1>
+<h1>Calcule seu IMC!</h1>
 
 Entre com os valores Peso e Altura e descubra seu Indice de Massa Corporal.
 
